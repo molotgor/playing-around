@@ -318,5 +318,8 @@
         "wizard-school-of-magicians"
       ]
     }
-  ]
+  ],
+  "url": "https://github.com/molotgor/playing-around",
+  "manifest": "https://raw.githubusercontent.com/molotgor/playing-around/master/module.json",
+  "download": "https://github.com/molotgor/playing-around/archive/refs/heads/master.zip"
 }
