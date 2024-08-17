@@ -1,0 +1,8 @@
+2024/08/16-19:28:41.584 389c Recovering log #54
+2024/08/16-19:28:41.596 389c Delete type=0 #54
+2024/08/16-19:28:41.597 389c Delete type=3 #52
+2024/08/16-19:29:55.622 4eec Level-0 table #59: started
+2024/08/16-19:29:55.622 4eec Level-0 table #59: 0 bytes OK
+2024/08/16-19:29:55.628 4eec Delete type=0 #57
+2024/08/16-19:29:55.646 4eec Manual compaction at level-0 from '!folders!BOB1auBMAT8x5gBG' @ 72057594037927935 : 1 .. '!items!kaeM8A1QfYhUPVhz' @ 0 : 0; will stop at (end)
+2024/08/16-19:29:55.648 4eec Manual compaction at level-1 from '!folders!BOB1auBMAT8x5gBG' @ 72057594037927935 : 1 .. '!items!kaeM8A1QfYhUPVhz' @ 0 : 0; will stop at (end)

@@ -1,0 +1,322 @@
+{
+  "id": "playing-around",
+  "title": "Playing Around",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "flags": {
+    "playing-around": {
+      "pf2e-homebrew": {
+        "spellTraits": {
+          "rage": {
+            "label": "Rage",
+            "description": "You must be raging to use abilities with the rage trait, and they end automatically when you stop raging."
+          }
+        },
+        "equipmentTraits": {
+          "beauty-product": {
+            "label": "Beauty Product",
+            "description": "Beauty Product."
+          }
+        }
+      }
+    }
+  },
+  "packs": [
+    {
+      "name": "alchemist-cosmetologist",
+      "label": "Alchemist (Cosmetologist Research Field)",
+      "path": "packs/alchemist-cosmetologist",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "barbarian-bravura",
+      "label": "Barbarian (Bravura Instinct)",
+      "path": "packs/barbarian-bravura",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bard-community",
+      "label": "Bard (Community Muse)",
+      "path": "packs/bard-community",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "champion-spotlight",
+      "label": "Champion (Spotlight Cause)",
+      "path": "packs/champion-spotlight",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cleric-cantate-director",
+      "label": "Cleric (Cantate Director)",
+      "path": "packs/cleric-cantate-director",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "druid-iridescent-order",
+      "label": "Druid (Iridescent Order)",
+      "path": "packs/druid-iridescent-order",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "fighter",
+      "label": "Fighter (Dramatic Feats)",
+      "path": "packs/fighter",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gunslinger-benevolent",
+      "label": "Gunslinger (Way of the Benevolent)",
+      "path": "packs/gunslinger-benevolent",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "inventor-puppy-innovation",
+      "label": "Inventor (Puppy Innovation)",
+      "path": "packs/inventor-puppy-innovation",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "investigatot-empathy",
+      "label": "Investigator (Empathy Methodology)",
+      "path": "packs/investigatot-empathy",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "kineticist",
+      "label": "Kineticist (Komedic Kinesis)",
+      "path": "packs/kineticist",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magus-glowing-revue",
+      "label": "Magus (Glowing Revue Hybrid Study)",
+      "path": "packs/magus-glowing-revue",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "monk",
+      "label": "Monk (Stagecraft Feats)",
+      "path": "packs/monk",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "oracle-theater",
+      "label": "Oracle (Theater Mystery)",
+      "path": "packs/oracle-theater",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "psychic-faceless-screaming",
+      "label": "Psychic (Faceless Affect and Screaming Heart)",
+      "path": "packs/psychic-faceless-screaming",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ranger-blitz",
+      "label": "Ranger (Blitz Hunter's Edge)",
+      "path": "packs/ranger-blitz",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rogue-sleight",
+      "label": "Rogue (Sleight Racket)",
+      "path": "packs/rogue-sleight",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sorcerer-azatan",
+      "label": "Sorcerer (Azatan Bloodlines)",
+      "path": "packs/sorcerer-azatan",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "summoner-ensemble-eidolon",
+      "label": "Summoner (Ensemble Eidolon)",
+      "path": "packs/summoner-ensemble-eidolon",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "swashbuckler-stunt-performer",
+      "label": "Swashbuckler (Stunt Performer Style)",
+      "path": "packs/swashbuckler-stunt-performer",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "thaumaturge-script",
+      "label": "Thaumaturge (Script Implement)",
+      "path": "packs/thaumaturge-script",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "witch-performative-power",
+      "label": "Witch (The Performative Power Patron)",
+      "path": "packs/witch-performative-power",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "wizard-school-of-magicians",
+      "label": "Wizard (School of Magicians)",
+      "path": "packs/wizard-school-of-magicians",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Playing Around",
+      "sorting": "a",
+      "packs": [
+        "alchemist-cosmetologist",
+        "barbarian-bravura",
+        "bard-community",
+        "champion-spotlight",
+        "cleric-cantate-director",
+        "druid-iridescent-order",
+        "fighter",
+        "gunslinger-benevolent",
+        "inventor-puppy-innovation",
+        "investigatot-empathy",
+        "kineticist",
+        "magus-glowing-revue",
+        "monk",
+        "oracle-theater",
+        "psychic-faceless-screaming",
+        "ranger-blitz",
+        "rogue-sleight",
+        "sorcerer-azatan",
+        "summoner-ensemble-eidolon",
+        "swashbuckler-stunt-performer",
+        "thaumaturge-script",
+        "witch-performative-power",
+        "wizard-school-of-magicians"
+      ]
+    }
+  ]
+}

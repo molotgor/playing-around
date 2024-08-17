@@ -1,0 +1,8 @@
+2024/08/16-19:41:24.979 15ec Recovering log #57
+2024/08/16-19:41:24.994 15ec Delete type=0 #57
+2024/08/16-19:41:24.995 15ec Delete type=3 #55
+2024/08/16-19:42:02.931 4eec Level-0 table #62: started
+2024/08/16-19:42:02.931 4eec Level-0 table #62: 0 bytes OK
+2024/08/16-19:42:02.937 4eec Delete type=0 #60
+2024/08/16-19:42:02.938 4eec Manual compaction at level-0 from '!items!av36uoATK1KSxpog' @ 72057594037927935 : 1 .. '!items!av36uoATK1KSxpog' @ 0 : 0; will stop at (end)
+2024/08/16-19:42:02.938 4eec Manual compaction at level-1 from '!items!av36uoATK1KSxpog' @ 72057594037927935 : 1 .. '!items!av36uoATK1KSxpog' @ 0 : 0; will stop at (end)
