@@ -1,7 +1,7 @@
 {
   "id": "playing-around",
   "title": "Playing Around",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -11,6 +11,13 @@
       {
         "id": "pf2e",
         "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "pf2e-animal-companions",
+        "type": "module",
         "compatibility": {}
       }
     ]
@@ -316,7 +323,9 @@
         "thaumaturge-script",
         "witch-performative-power",
         "wizard-school-of-magicians"
-      ]
+      ],
+      "color": null,
+      "folders": []
     }
   ],
   "url": "https://github.com/molotgor/playing-around",
