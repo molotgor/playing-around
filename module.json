@@ -1,7 +1,7 @@
 {
   "id": "playing-around",
   "title": "Playing Around",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -131,7 +131,7 @@
     },
     {
       "name": "inventor-puppy-innovation",
-      "label": "Inventor (Puppy Innovation)",
+      "label": "Inventor (Puppet Innovation)",
       "path": "packs/inventor-puppy-innovation",
       "type": "Item",
       "system": "pf2e",
@@ -153,7 +153,7 @@
     },
     {
       "name": "kineticist",
-      "label": "Kineticist (Komedic Kinesis)",
+      "label": "Kineticist (Comedic Kinesis)",
       "path": "packs/kineticist",
       "type": "Item",
       "system": "pf2e",
