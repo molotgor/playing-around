@@ -1,8 +1,3 @@
-2024/09/07-14:50:22.317 247c Recovering log #107
-2024/09/07-14:50:22.324 247c Delete type=0 #107
-2024/09/07-14:50:22.325 247c Delete type=3 #106
-2024/09/07-14:51:10.531 4adc Level-0 table #111: started
-2024/09/07-14:51:10.531 4adc Level-0 table #111: 0 bytes OK
-2024/09/07-14:51:10.534 4adc Delete type=0 #109
-2024/09/07-14:51:10.540 4adc Manual compaction at level-0 from '!folders!AFnRegSUfFQnx6rz' @ 72057594037927935 : 1 .. '!items!tTZOY0s64PFNroBj' @ 0 : 0; will stop at (end)
-2024/09/07-14:51:10.540 4adc Manual compaction at level-1 from '!folders!AFnRegSUfFQnx6rz' @ 72057594037927935 : 1 .. '!items!tTZOY0s64PFNroBj' @ 0 : 0; will stop at (end)
+2024/09/28-01:26:06.259 30a0 Recovering log #127
+2024/09/28-01:26:06.275 30a0 Delete type=0 #127
+2024/09/28-01:26:06.276 30a0 Delete type=3 #126
