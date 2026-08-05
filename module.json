@@ -1,10 +1,10 @@
 {
   "id": "playing-around",
   "title": "Playing Around",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "14",
+    "verified": "14"
   },
   "relationships": {
     "systems": [
@@ -17,6 +17,11 @@
     "recommends": [
       {
         "id": "pf2e-animal-companions",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-runesmith-assistant",
         "type": "module",
         "compatibility": {}
       }
@@ -50,7 +55,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "barbarian-bravura",
@@ -61,7 +67,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "bard-community",
@@ -72,7 +79,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "champion-spotlight",
@@ -83,7 +91,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "cleric-cantate-director",
@@ -94,7 +103,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "druid-iridescent-order",
@@ -105,7 +115,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "fighter",
@@ -116,7 +127,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "gunslinger-benevolent",
@@ -127,7 +139,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "inventor-puppy-innovation",
@@ -138,7 +151,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "investigatot-empathy",
@@ -149,7 +163,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "kineticist",
@@ -160,7 +175,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "magus-glowing-revue",
@@ -171,7 +187,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "monk",
@@ -182,7 +199,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "oracle-theater",
@@ -193,7 +211,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "psychic-faceless-screaming",
@@ -204,7 +223,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "ranger-blitz",
@@ -215,7 +235,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "rogue-sleight",
@@ -226,7 +247,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "sorcerer-azatan",
@@ -237,7 +259,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "summoner-ensemble-eidolon",
@@ -248,7 +271,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "swashbuckler-stunt-performer",
@@ -259,7 +283,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "thaumaturge-script",
@@ -270,7 +295,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "witch-performative-power",
@@ -281,7 +307,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "wizard-school-of-magicians",
@@ -292,7 +319,80 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
+    },
+    {
+      "name": "animist-sensation-of-the-stage",
+      "label": "Animist (Sensation of the Stage)",
+      "path": "packs/animist-sensation-of-the-stage",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "exemplar",
+      "label": "Exemplar",
+      "path": "packs/exemplar",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "commander",
+      "label": "Commander",
+      "path": "packs/commander",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "guardian",
+      "label": "Guardian",
+      "path": "packs/guardian",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "theatrical-necromancer",
+      "label": "Theatrical Necromancer",
+      "path": "packs/theatrical-necromancer",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "runesmith-performance-runes",
+      "label": "Runesmith (Performance Runes)",
+      "path": "packs/runesmith-performance-runes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -322,7 +422,13 @@
         "swashbuckler-stunt-performer",
         "thaumaturge-script",
         "witch-performative-power",
-        "wizard-school-of-magicians"
+        "wizard-school-of-magicians",
+        "animist-sensation-of-the-stage",
+        "exemplar",
+        "commander",
+        "guardian",
+        "theatrical-necromancer",
+        "runesmith-performance-runes"
       ],
       "color": null,
       "folders": []
@@ -330,5 +436,6 @@
   ],
   "url": "https://github.com/molotgor/playing-around",
   "manifest": "https://raw.githubusercontent.com/molotgor/playing-around/master/module.json",
-  "download": "https://github.com/molotgor/playing-around/archive/refs/heads/master.zip"
+  "download": "https://github.com/molotgor/playing-around/archive/refs/heads/master.zip",
+  "description": ""
 }
